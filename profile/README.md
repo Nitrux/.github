@@ -9,14 +9,20 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## About Nitrux
+<p align="center">
+  <img width="128" height="128" src="https://raw.githubusercontent.com/Nitrux/luv-icon-theme/master/Luv/places/96/start-here.svg">
+</p>
+
+<h1 align="center">Nitrux Latinoamericana S.C.</h1>
+<p align="center"><em>We're a thriving company making dreams come true — one byte at a time.</em></p>
+
+### About Nitrux
 
 Nitrux is a start-up company that aims to provide computational solutions to the general public, schools, and small businesses.
 
 Founded in 2012, we have provided a wide variety of artwork to Linux desktops helping expand the options available for users who want to modernize the look of their systems.
 
-
-## Información sobre Nitrux
+### Información sobre Nitrux
 
 Nitrux es una empresa de nueva creación que tiene como objetivo proporcionar soluciones informáticas al público en general, las escuelas y las pequeñas empresas.
 
