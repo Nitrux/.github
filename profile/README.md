@@ -10,7 +10,7 @@
 -->
 
 <p align="center">
-  <img width="128" height="128" src="https://raw.githubusercontent.com/Nitrux/luv-icon-theme/master/Luv/places/96/start-here.svg">
+  <img width="128" height="128" src="https://avatars.githubusercontent.com/u/5579380?s=200&v=4">
 </p>
 
 <h1 align="center">Nitrux Latinoamericana S.C.</h1>
